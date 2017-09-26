@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/dialog_rename_gateway.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/dialog_rename_gateway.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_rename_gateway.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\dialog_rename_gateway.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/shape_button_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/shape_button_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_root.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_root.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/btn_on_off_normal.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/btn_on_off_normal.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/customlistviewlights.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/customlistviewlights.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_channel_time_settings.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_channel_time_settings.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_light_direct_control.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_light_direct_control.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_channel_main.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_channel_main.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_choose_channel.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_choose_channel.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/preference_preview_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/preference_preview_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_choose_channel.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_choose_channel.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_tcp_log.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_tcp_log.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_channel_main.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_channel_main.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customlistviewlights.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\customlistviewlights.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_tcp_log.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_tcp_log.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/dialog_reset_gateway.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/dialog_reset_gateway.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_preview_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\preference_preview_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_channel_time_settings.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_channel_time_settings.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/dialog_change_password.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/dialog_change_password.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btn_on_off_normal.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\btn_on_off_normal.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_new_light.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_new_light.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_splash.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_splash.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_lights.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_lights.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_new_light.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_new_light.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_login.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_login.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/dialog_color_picker.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/dialog_color_picker.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_color_picker.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_color_picker.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_light_direct_control.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_light_direct_control.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_reset_gateway.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\dialog_reset_gateway.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_change_password.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\dialog_change_password.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_login.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_login.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_lights.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_lights.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\spinner_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_splash.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_splash.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_settings.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_settings.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/shape_dialog_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/shape_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_settings.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_settings.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/spinner_item_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/spinner_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_root.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\frag_root.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/frag_color_picker.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/src/main/res/layout/frag_color_picker.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/fbddb72af819e9bbb5b2087393fd7075b8a7c3ae/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shape_button_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\shape_button_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_color_picker.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\dialog_color_picker.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\f0d3510dedeb4c1aede9d576c046e566344c8f56\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shape_dialog_layout.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\src\\main\\res\\layout\\shape_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/huangzhengguo/.android/build-cache/1c583c3a6913595cdefe043630221f4a3506f131/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/E:\\GitHub\\FluvalWifi_20170701\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/huangzhengguo/Desktop/FluvalWifi_20170701/C:\\Android\\.android\\build-cache\\2e1af930cd20f79c74d918234e5c5b1c1f9e590b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    }
+]

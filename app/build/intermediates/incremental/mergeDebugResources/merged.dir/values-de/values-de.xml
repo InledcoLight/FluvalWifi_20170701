@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="color_panel_new" type="id"/>
+    <item name="color_panel_old" type="id"/>
+    <item name="color_picker_view" type="id"/>
+    <item name="dialog_color_picker_extra_layout_landscape" type="id"/>
+    <item name="preference_preview_color_panel" type="id"/>
+    <string name="Channel">Kanal:</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s: %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s: %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Freigeben für %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_build_version">Build Version 1.1.1</string>
+    <string name="app_name">Fluval</string>
+    <string name="automatic_mode">Automatischer Modus</string>
+    <string name="automatic_mode_off">Aus</string>
+    <string name="automatic_mode_on">An</string>
+    <string name="ch1_desc">Ch 1 Tageslicht</string>
+    <string name="ch2_desc">Ch 2 Nachtlicht/blaues Licht</string>
+    <string name="channel_main_break">Pause</string>
+    <string name="channel_main_night">Nacht</string>
+    <string name="channel_main_sunrise">Sonnenaufgang</string>
+    <string name="channel_main_sunset">Sonnenuntergang</string>
+    <string name="channel_time_settings_buttonSave">Speichern</string>
+    <string name="channel_time_settings_channel">Kanal</string>
+    <string name="channel_time_settings_desc_break">Bitte wählen Sie den Zeitraum der Pause.</string>
+    <string name="channel_time_settings_desc_sunrise">Bitte wählen Sie, in welchem Zeitraum die Sonne aufgehen soll.</string>
+    <string name="channel_time_settings_desc_sunset">Bitte wählen Sie, in welchem Zeitraum die Sonne untergehen soll.</string>
+    <string name="channel_time_settings_targetValue">Zielhelligkeit</string>
+    <string name="choose_channel_item">Kanäle</string>
+    <string name="choose_channel_product">Modell</string>
+    <string name="cloud_effect">Wolken Effekt</string>
+    <string name="delete">gelöscht</string>
+    <string name="deleteme">Entfernen</string>
+    <string name="dialog_new_password_desc">Bitte ein neues Login-Passwort eingeben</string>
+    <string name="dialog_new_password_title">Neues Password</string>
+    <string name="dialog_rename_gateway_desc">Bitte geben Sie einen neuen Namen für das verbundene Gateway ein</string>
+    <string name="dialog_rename_gateway_rename_button">Umbennenen</string>
+    <string name="dialog_rename_gateway_title">Umbenennung Gateway</string>
+    <string name="dialog_reset_gateway">Gateway zurücksetzen</string>
+    <string name="direct_control_buttonOff">Aus</string>
+    <string name="direct_control_buttonOn">An</string>
+    <string name="direct_control_luminosity">Helligkeit</string>
+    <string name="direct_control_title">Direkte Kontrolle</string>
+    <string name="frag_light_title">Beleuchtungseinstellung</string>
+    <string name="gateway_error">Die Verbindung zum Gateway wurde unterbrochen...\n\n Programm wird nun beendet...</string>
+    <string name="gateway_error2">Verbindung zum Gateway konnte nicht aufgebaut werden.\nApp wird nun geschlossen...</string>
+    <string name="gateway_port">Port1/Port2</string>
+    <string name="light">light</string>
+    <string name="login_button">Login</string>
+    <string name="menu_lights">Home</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="name">Name</string>
+    <string name="new_light_title">Neue Beleuchtung</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="settings_change_password">Passwort ändern</string>
+    <string name="settings_rename_gateway">WiFi-Gerät umbenennen</string>
+    <string name="settings_reset_gateway">Werkeinstellungen wiederherstellen</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="time_validate_1">[Start Zeit] ist grösser als [Stop Zeit]...</string>
+    <string name="time_validate_10">Start Zeit darf nicht gleiche sein wie die  Stop Zeit...</string>
+    <string name="time_validate_11">Start Zeit [Sonnenuntergang] muss grösser als die Start Zeit [Sonnenaufgang] sein...</string>
+    <string name="time_validate_2">Stop Zeit [Sonnenaufgang] ist grösser als Start Zeit [Pause]... </string>
+    <string name="time_validate_3">[Start Zeit] ist grösser als [Stop Zeit]...</string>
+    <string name="time_validate_4">Start Zeit [Pause] ist kleiner als Stop Zeit [Sonnenaufgang]...</string>
+    <string name="time_validate_5">Stop Zeit [Pause] ist grösser als Start Zeit [Sonnenuntergang]...</string>
+    <string name="time_validate_6">[Start Zeit] ist grösser als [Stop Zeit]...</string>
+    <string name="time_validate_7">Start Zeit [Sonnenuntergang] ist kleiner als Stop Zeit [Pause]...</string>
+    <string name="time_validate_8">Stop Zeit [Sonnenuntergang] ist grösser als Start Zeit [Sonnenaufgang]...</string>
+    <string name="time_validate_9">Stop Zeit [Pause] muss grösser als die Start Zeit [Pause] sein...</string>
+    <string name="value_validate_1">Der Nachtwert muss kleiner sein als der Sonnenaufgangswert </string>
+    <string name="wifi_info">Wifi Login</string>
+    <string name="wrong_wifi">WIFI ist nicht mit dem Gateway verbunden...</string>
+    <style name="AppBaseTheme" parent="Theme.AppCompat">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="dialog_color_picker_view_portrait">
+        <item name="android:layout_width">240dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

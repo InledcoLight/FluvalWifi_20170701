@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    	
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="8"
+            android:background="@color/HellBlue" >
+
+            <TextView
+                android:id="@+id/textViewChannelTimeSettingsMainLogo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:text="Light Channel"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <ImageView
+                android:id="@+id/imageViewBackToChannelMain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:scaleType="fitStart"
+                android:src="@drawable/backbutton" />
+
+            <ImageView
+                android:id="@+id/imageViewDirectControlOrColorPicker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="12dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="fitEnd"
+                android:src="@drawable/hand" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <RelativeLayout
+                android:id="@+id/btnSunrise"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/shape_button_selector" >
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout3"
+                    android:layout_width="10dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:background="#FF006080" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/textViewChannelDesc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_toRightOf="@+id/relativeLayout3"
+                    android:text="@string/channel_main_sunrise"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/TextViewSunriseTimeInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/textViewChannelDesc"
+                    android:layout_alignBottom="@+id/textViewChannelDesc"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:text="08:00 h - 08:30 h"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="40dp"
+                    android:layout_toLeftOf="@+id/TextViewSunriseTimeInfo"
+                    android:src="@drawable/clock" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/btnBreak"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/btnSunrise"
+                android:background="@drawable/shape_button_selector" >
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout4"
+                    android:layout_width="10dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:background="#FFFFFF00" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/textViewDirectLightPower"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_toRightOf="@+id/relativeLayout4"
+                    android:text="@string/channel_main_break"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/TextViewBreakTimeInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/textViewDirectLightPower"
+                    android:layout_alignBottom="@+id/textViewDirectLightPower"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:text="08:00 h - 08:30 h"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:id="@+id/ImageView01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="40dp"
+                    android:layout_toLeftOf="@+id/TextViewBreakTimeInfo"
+                    android:src="@drawable/clock" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/btnSunset"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/btnBreak"
+                android:background="@drawable/shape_button_selector" >
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout5"
+                    android:layout_width="10dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:background="#FFFF0000" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_toRightOf="@+id/relativeLayout5"
+                    android:text="@string/channel_main_sunset"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/TextViewSunsetTimeInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/textView3"
+                    android:layout_alignBottom="@+id/textView3"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:text="08:00 h - 08:30 h"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:id="@+id/ImageView02"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="40dp"
+                    android:layout_toLeftOf="@+id/TextViewSunsetTimeInfo"
+                    android:src="@drawable/clock" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout8"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/btnSunset"
+                android:background="@drawable/shape_button_layout" >
+
+                <RelativeLayout
+                    android:id="@+id/relativeLayout6"
+                    android:layout_width="10dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:background="#FF000050" >
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_toRightOf="@+id/relativeLayout6"
+                    android:text="@string/channel_main_night"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/TextViewNightTimeInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/textView4"
+                    android:layout_alignBottom="@+id/textView4"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:text="08:00 h - 08:30 h"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:id="@+id/ImageView03"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="40dp"
+                    android:layout_toLeftOf="@+id/TextViewNightTimeInfo"
+                    android:src="@drawable/clock" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/Chart"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_below="@+id/relativeLayout8"
+                android:layout_centerHorizontal="true" >
+
+                <TextView
+                    android:id="@+id/textViewChannelTimeSettingsLightValue"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="Diagramm"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+ 
+
+</LinearLayout>
+ 
+
+
+            
