@@ -1,4 +1,4 @@
-#Thu Sep 07 09:04:32 CST 2017
+#Wed Sep 27 10:20:42 CST 2017
 base.0=/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
 renamed.0=classes.dex
 file.0=/Users/huangzhengguo/Desktop/FluvalWifi_20170701/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

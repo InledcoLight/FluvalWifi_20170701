@@ -122,7 +122,8 @@ public class FragmentLogin extends Fragment implements InterfaceSendFromActivity
     {
         if ( button.getId() == R.id.buttonLogin )
         {
-
+            // 重新检测
+            updateGuiFields();
             if ( !( inputIp.getText()
                            .toString()
                            .substring( 0, 3 )
