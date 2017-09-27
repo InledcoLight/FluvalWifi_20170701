@@ -49,7 +49,6 @@ public class ClientSocket
 
     private ClientSocket ()
     {
-        mSocket = new Socket();
         mRxBuffer = new char[BUFFER_SIZE];
     }
 
@@ -65,7 +64,7 @@ public class ClientSocket
             return;
         }
         Log.d( TAG, "connectWithServer: " + ip + "\t" + port );
-        // mSocket = new Socket();
+        mSocket = new Socket();
         new Thread( new Runnable() {
             @Override
             public void run ()
@@ -152,7 +151,6 @@ public class ClientSocket
     {
         if ( mConnected )
         {
-            Log.i("已经连接！","已经连接！");
             if ( TextUtils.isEmpty( data ) )
             {
                 return;
@@ -169,28 +167,12 @@ public class ClientSocket
                 {
                     try
                     {
-                        Log.i("线程启动","进入线程");
-                        if (mConnected){
-                            Log.i("socket连接","进入线程");
-                        }else{
-                            Log.i("socket没有连接","进入线程");
-                        }
-
                         out.write( d );
                         out.flush();
-                        if (out.checkError()){
-                            Log.i("检测out状态","有错误");
-                        }else {
-                            Log.i("检测out状态","无错误");
-                        }
-
-                        Log.i("线程启动","写完数据:" + d + d.length());
 
                         int len = in.read(mRxBuffer);
-                        Log.i("线程启动","读取完数据长度:" + len);
                         if ( listener  != null )
                         {
-                            Log.i("已经连接！","listener不是空！");
                             if ( len > 0 )
                             {
                                 String rcv = new String( mRxBuffer, 0, len );
@@ -199,7 +181,6 @@ public class ClientSocket
                                 {
                                     rcv = rcv.substring( 0, rcv.length()-2 );
                                 }
-                                Log.i("线程启动","读取完数据:" + rcv);
                                 listener.onReceive( rcv );
                             }
                             else
